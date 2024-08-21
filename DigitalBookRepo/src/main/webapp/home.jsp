@@ -52,7 +52,7 @@
         <!-- Using buttons and JavaScript -->
         <!--
         <button onclick="window.location.href='login.jsp'">Login</button>
-        <button onclick="window.location.href='register.jsp'">Register</button>
+        <button onclick="window.location.href='register.jsp'">Register Button</button>
         -->
     </div>
 </body>
